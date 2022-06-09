@@ -1,7 +1,10 @@
 ### 获取Root权限，可改root密码的一键脚本
+bitbucket版
+```
+wget -N https://bitbucket.org/rwkgyg/vpsroot/raw/main/root.sh && bash root.sh
+```
 
-一键脚本：
-
+github版
 ```
 wget -N https://raw.githubusercontents.com/rwkgyg/vpsroot/main/root.sh && bash root.sh
 ```
