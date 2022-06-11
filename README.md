@@ -4,9 +4,9 @@ bitbucket版
 wget -N https://bitbucket.org/rwkgyg/vpsroot/raw/main/root.sh && bash root.sh
 ```
 
-github版
+gitlab版
 ```
-wget -N https://raw.githubusercontents.com/rwkgyg/vpsroot/main/root.sh && bash root.sh
+wget -N https://gitlab.com/rwkgyg/vpsroot/raw/main/root.sh && bash root.sh
 ```
 
 相关说明请查看[甬哥博客](https://ygkkk.blogspot.com/2022/02/githubvpsrootrooteuservhax.html)
